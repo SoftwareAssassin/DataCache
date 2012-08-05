@@ -1,6 +1,20 @@
-﻿namespace DataCache
+﻿///
+/// Original Author: Software Assassin
+/// http://www.softwareassassin.com
+/// 
+/// GNU All-Permissive License:
+/// Copying and distribution of this file, with or without modification,
+/// are permitted in any medium without royalty provided the copyright
+/// notice and this notice are preserved.  This file is offered as-is,
+/// without any warranty.
+/// 
+/// Source code available at:
+/// https://github.com/SoftwareAssassin/AssassinLibrary
+/// 
+
+namespace Assassin.DataCache
 {
-	partial class Service1
+	partial class Service
 	{
 		/// <summary> 
 		/// Required designer variable.
@@ -29,7 +43,7 @@
 		private void InitializeComponent()
 		{
 			components = new System.ComponentModel.Container();
-			this.ServiceName = "Service1";
+			this.ServiceName = "Service";
 		}
 
 		#endregion
